@@ -92,6 +92,38 @@
 
 <br/><br/>
 
+
+
+### :star: <b>Develop Rules</b>
+
+  <b>branch</b>
+
+```
+ master -> develop -> front -> feature/hashtag
+```
+
+  **merge**
+
+```
+merge 하기 전에 서로 코드 리뷰하기
+
+merge 후 브랜치 지우기
+```
+
+  <b>commit</b>
+
+```
+S02P22A301-4 | DONE | 스켈레톤 코드 다운로드 및 clone
+```
+
+  <b>Readme.md</b>
+
+```
+데일리 업무 내용 정리
+```
+
+<br/>
+<br/>
 <br/>
 
 # :first_quarter_moon_with_face: 문제 해결 및 문서 정리
